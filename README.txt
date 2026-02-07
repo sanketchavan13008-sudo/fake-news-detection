@@ -21,4 +21,5 @@ This project detects fake and real news using NLP and Machine Learning technique
 - predict_news
 
 ## Output
+
 The model predicts whether the given news is Fake or Real.
